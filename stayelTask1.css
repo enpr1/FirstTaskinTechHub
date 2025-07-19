@@ -1,0 +1,129 @@
+.header-Task
+    {
+        text-align: center;
+        margin: 0;
+        height: 150px;
+        padding: 15px;
+        background-color: #c3f6c3;
+        border-radius: 10px 10px 0 0;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+
+.logo
+    {
+        width: 200px;
+        margin: 0 0 10px 0;
+        padding: 0;
+    }
+
+.header-link a
+    {
+        color:whitesmoke;
+        padding: 3px 4px;
+        text-decoration-line: none;
+        border-radius: 5px;
+        background-color:#14281b;
+        margin: 0 10px;
+    }    
+
+.header-link a:hover
+    {
+        background-color: #8f8f8f;
+    }    
+
+.Super-Section
+    {
+        text-align: center;
+        margin: 0;
+        padding: 15px 0 10px 0;
+        background-color: #b1ecff;
+        border-radius: 0;
+        height: 200px;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+
+.button
+    {
+    background-color: #0033cc;
+    border-radius: 5px;
+    color: whitesmoke;
+    border: none;
+    padding: 10px 15px;
+
+        
+    font-family: "Arvo", serif;
+    font-weight: 40;
+    font-style: normal;
+    }   
+
+.Super-Section button:hover
+    {
+        background-color:#4d79ff;
+        transform: scale(1.1);
+        transition: background-color(0.8) ease;
+    }    
+
+.acttive-cv
+    {
+        display: flex;
+        gap: 2px;
+        justify-items: center;
+        justify-content: center;
+        align-items: center;
+        background-color: #ffffe0;
+        margin: 0;
+        padding: 10px;
+
+        height: 250px;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+
+.acttive
+    {
+        width: 400px;
+        background-color: white;
+        padding: 15px 5px;
+        border-radius: 5px;
+
+        color: black;
+        font-family: "Arvo", serif;
+        font-weight: 40;
+        font-style: normal;
+        margin: 10px 15px;
+        border: none;
+        text-align: center;
+    }   
+    
+.acttive img
+    {
+        width: 50px;
+    }    
+
+.footer-link 
+    {
+        text-align: center;
+        padding: 15px;
+        background-color: #d3d3d3;
+        border-radius: 0 0 15px 15px;       
+    }    
+    
+.footer-link a
+    {
+        color:whitesmoke;
+        padding: 3px 4px;
+        text-decoration-line: none;
+        border-radius: 5px;
+        background-color:#030303;
+        margin: 0 10px;
+    }    
+
+.footer-link a:hover
+    {
+        background-color: #8f8f8f;
+    }      
